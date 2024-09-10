@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Aurel<br>Currently pursuing a Bachelor's degree in Computer Science.<br>I have a strong interest and deep passion for mobile development and UI/UX design.<br>I aim to blend technology and creativity in every project I undertake.
+# Hi, I'm Aurel!
+Currently pursuing a Bachelor's degree in Computer Science.<br>I have a strong interest and deep passion for mobile development and UI/UX design.<br>I aim to blend technology and creativity in every project I undertake.
 
 
 ## 🌐 Socials:
