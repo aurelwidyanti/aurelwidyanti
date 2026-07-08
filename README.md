@@ -1,5 +1,5 @@
 # Hi, I'm Aurel!
-Currently pursuing a Bachelor's degree in Computer Science.<br>I have a strong interest and deep passion for mobile development and UI/UX design.<br>I aim to blend technology and creativity in every project I undertake.
+Computer Science graduate specializing in Front-End Development across web and mobile platforms. Technical problem-solver experienced in translating design concepts into functional applications. Equipped with a strong foundation in UI/UX design and hands-on experience as a Workflow Automation Engineer using n8n. Eager to bring end-to-end value to a forward-thinking tech company.
 
 
 ## 🌐 Socials:
