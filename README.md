@@ -3,7 +3,7 @@
 # 🌸 Hi there, I'm Aurel! ✨
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vcenter=true&width=500&lines=Frontend+%26+Mobile+Developer;Workflow+Automation+Engineer;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vcenter=true&width=500&lines=Frontend+%26+Developer;Workflow+Automation+Engineer;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aurelwidyanti.com"><img src="https://img.shields.io/badge/Portfolio-E2F0CB?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://aurelwidyanti.site"><img src="https://img.shields.io/badge/Portfolio-E2F0CB?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/aurelputriwidyanti"><img src="https://img.shields.io/badge/LinkedIn-FFB7B2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://instagram.com/aurelwidyanti"><img src="https://img.shields.io/badge/Instagram-FFDAC1?style=for-the-badge" alt="Instagram" /></a>
 </p>
